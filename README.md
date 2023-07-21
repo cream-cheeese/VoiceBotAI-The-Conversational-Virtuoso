@@ -20,7 +20,7 @@ Welcome to the VoiceBotAI repository, where you'll find a state-of-the-art conve
 
 ## Getting Started:
 1. Clone the repository to your local machine.
-2. Ensure you have the required dependencies, including OpenAI, ElevenLabs, pydub, sounddevice, soundfile, and colorama.
+2. Ensure you have the required dependencies, including OpenAI, ElevenLabs, pydub, sounddevice, soundfile, and colorama.(pip install -r requirements.txt)
 3. Obtain API keys for OpenAI and ElevenLabs, and copy them in appropriate variables.
 4. Run the Python script to engage in voice-based conversations with VoiceBotAI.
 
