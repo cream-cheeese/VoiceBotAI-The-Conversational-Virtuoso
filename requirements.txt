@@ -1,0 +1,9 @@
+# Requirements for VoiceBotAI: The Conversational Virtuoso
+python>=3.7
+openai>=0.27.0
+requests>=2.26.0
+pydub>=0.26.0
+numpy>=1.21.1
+sounddevice>=0.4.1
+soundfile>=0.10.3
+colorama>=0.4.4
