@@ -1,5 +1,5 @@
-# VoiceBotAI: The Conversational Virtuoso
-Welcome to the VoiceBotAI repository, where you'll find a state-of-the-art conversational AI system designed to engage in natural and intelligent interactions using voice input. This project aims to revolutionize the way we interact with AI, making conversations more seamless, enjoyable, and meaningful.
+# GPT-3 Voice Interaction Script
+This Python script enables users to interact verbally with OpenAI's GPT-3 model. Since GPT-3 itself doesn't support verbal communication, we've integrated Eleven Labs to provide GPT-3 with a voice and microphone for receiving verbal inputs. The user's spoken input is recorded, transcribed, processed by GPT-3, and the resulting output is made audible using Eleven Labs.
 
 ## Key Features:
 - ### Advanced Conversational AI: 
